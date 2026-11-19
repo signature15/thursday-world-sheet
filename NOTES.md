@@ -2,7 +2,11 @@
 
 ## Design notes
 
-These are the layout decisions behind `entry.png` and the reasoning for each.
+These are the layout decisions behind `entry.png` and the reasoning for each. The page
+covers a single day — Thursday, 19 November 2026 — and carries all 38 stories of that
+date, ranked from three heroes down to one-line briefs. What follows explains why each
+element looks the way it does, and why nothing on the sheet is allowed to be older than
+the day it names.
 
 **Cream paper.** The page sits on a warm off-white rather than pure white because the
 argument of the image is "this is a newspaper front page, not a dashboard." Pure white
@@ -47,3 +51,15 @@ sources — Reuters, AP, AFP, BBC, Bloomberg, Kyodo, ICJ, USGS, ONS — with the
 disputed claims are attributed, never asserted. A news page is only as good as its
 honesty, so the footer spends its final inches proving the one thing the whole poster
 claims: every line here belongs to this exact day.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
