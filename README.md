@@ -34,6 +34,12 @@ Stories were picked for breadth across regions and fields - politics,
 courts, markets, science, quakes, sport - so the page reads as the whole
 planet's day at a glance.
 
+## Design notes
+
+The layout choices in `entry.png` — the cream newsprint ground, the red date tab, the
+eight-cell numbers strip, the hero/secondary/tertiary/briefs ranking, and the date-check
+footer — are each explained in [NOTES.md](./NOTES.md).
+
 ## How to run
 
 Node 22, standard library only. No dependencies to install, no build step,
